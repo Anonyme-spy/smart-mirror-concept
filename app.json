@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "smart_mirror",
+    "slug": "smart_mirror",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "smart_mirror"
+}
